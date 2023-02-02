@@ -1,5 +1,4 @@
 # Object recognition and computer vision 2022/2023
-# Reconnaissance d’objets et vision artificielle 2022/2023
 
 Ivan Laptev, Jean Ponce, Cordelia Schmid and Josef Sivic
 
